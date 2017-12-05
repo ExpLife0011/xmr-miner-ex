@@ -1,0 +1,10 @@
+﻿  Building Custom Rule F:/Source/xmr-stak-master/CMakeLists.txt
+  CMake does not need to re-run because F:/Source/xmr-stak-master/CMakeFiles/generate.stamp is up-to-date.
+  c_blake256.c
+F:\Source\xmr-stak-master\xmrstak\backend\cpu\crypto\c_blake256.c(151): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+  c_groestl.c
+  c_jh.c
+  c_keccak.c
+  c_skein.c
+  正在生成代码...
+  xmr-stak-c.vcxproj -> F:\Source\xmr-stak-master\bin\Release\xmr-stak-c.lib

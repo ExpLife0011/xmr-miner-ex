@@ -1,0 +1,6 @@
+﻿  jconf.cpp
+F:\Source\xmr-stak-master\xmrstak\jconf.cpp(52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\Source\xmr-stak-master\xmrstak\jconf.cpp(195): warning C4267: “参数”: 从“size_t”转换到“rapidjson::SizeType”，可能丢失数据
+f:\source\xmr-stak-master\xmrstak\jconf.cpp(106): warning C4715: “kppex::on_cxb”: 不是所有的控件路径都返回值
+f:\source\xmr-stak-master\xmrstak\jconf.cpp(224): warning C4715: “jconf::GetPoolConfig”: 不是所有的控件路径都返回值
+  xmr-stak-backend.vcxproj -> F:\Source\xmr-stak-master\bin\Release\xmr-stak-backend.lib

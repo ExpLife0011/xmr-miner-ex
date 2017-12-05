@@ -1,0 +1,6 @@
+F:/Source/xmr-stak-master/CMakeFiles/xmr-stak-c.dir
+F:/Source/xmr-stak-master/CMakeFiles/INSTALL.dir
+F:/Source/xmr-stak-master/CMakeFiles/xmr-stak-backend.dir
+F:/Source/xmr-stak-master/CMakeFiles/xmr-stak.dir
+F:/Source/xmr-stak-master/CMakeFiles/ALL_BUILD.dir
+F:/Source/xmr-stak-master/CMakeFiles/ZERO_CHECK.dir
